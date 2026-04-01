@@ -1,6 +1,8 @@
 # English Trainer Pro
 
-English Trainer Pro é uma aplicação web simples para praticar verbos em inglês (principalmente passado simples), com foco em estudantes de português.
+English Trainer Pro é uma aplicação web simples para praticar verbos em inglês (principalmente passado simples), com foco em estudantes de português. [^1]
+
+<img width="430" height="402" alt="image" src="https://github.com/user-attachments/assets/17d9a95a-8529-4dd4-9936-9cb15b5f4f53" />
 
 ## 🚀 Recursos
 
@@ -73,3 +75,5 @@ O jogo salva no `localStorage` para continuar depois de recarregar a página.
 ## 📜 Licença
 
 MIT
+
+[^1]: Projeto criado para uso pessoal, "intuito de praticar Inglês no dia a dia".
