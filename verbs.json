@@ -1,0 +1,576 @@
+[
+  {
+    "base": "be",
+    "past": "was/were",
+    "participle": "been",
+    "pt": "ser/estar"
+  },
+  {
+    "base": "have",
+    "past": "had",
+    "participle": "had",
+    "pt": "ter"
+  },
+  {
+    "base": "do",
+    "past": "did",
+    "participle": "done",
+    "pt": "fazer"
+  },
+
+  {
+    "base":"say",
+    "past":"said",
+    "participle":"said",
+    "pt":"dizer"
+  },
+  {
+    "base": "go",
+    "past": "went",
+    "participle": "gone",
+    "pt": "ir"
+  },
+  {
+    "base":"get",
+    "past":"got",
+    "participle":"gotten",
+    "pt":"obter"
+  },
+  {
+    "base": "eat",
+    "past": "ate",
+    "participle": "eaten",
+    "pt": "comer"
+  },
+  {
+    "base": "write",
+    "past": "wrote",
+    "participle": "written",
+    "pt": "escrever"
+  },
+  {
+    "base": "see",
+    "past": "saw",
+    "participle": "seen",
+    "pt": "ver"
+  },
+  {
+    "base": "make",
+    "past": "made",
+    "participle": "made",
+    "pt": "fazer/criar"
+  },
+  {
+    "base": "take",
+    "past": "took",
+    "participle": "taken",
+    "pt": "pegar"
+  },
+  {
+    "base": "come",
+    "past": "came",
+    "participle": "come",
+    "pt": "vir"
+  },
+  {
+    "base": "know",
+    "past": "knew",
+    "participle": "known",
+    "pt": "saber/conhecer"
+  },
+  {
+    "base": "give",
+    "past": "gave",
+    "participle": "given",
+    "pt": "dar"
+  },
+  {
+    "base": "find",
+    "past": "found",
+    "participle": "found",
+    "pt": "encontrar"
+  },
+  {
+    "base": "think",
+    "past": "thought",
+    "participle": "thought",
+    "pt": "pensar"
+  },
+   {
+    "base":"think",
+    "past":"thought",
+    "participle":"thought",
+    "pt":"pensar"
+  },
+  {
+    "base":"take",
+    "past":"took",
+    "participle":"taken",
+    "pt":"pegar"
+  },
+  {
+    "base":"see",
+    "past":"saw",
+    "participle":"seen",
+    "pt":"ver"
+  },
+  {
+    "base":"come",
+    "past":"came",
+    "participle":"come",
+    "pt":"vir"
+  },
+  {
+    "base":"want",
+    "past":"wanted",
+    "participle":"wanted",
+    "pt":"querer"
+  },
+  {
+    "base":"look",
+    "past":"looked",
+    "participle":"looked",
+    "pt":"olhar"
+  },
+  {
+    "base":"use",
+    "past":"used",
+    "participle":"used",
+    "pt":"usar"
+  },
+  {
+    "base":"find",
+    "past":"found",
+    "participle":"found",
+    "pt":"encontrar"
+  },
+  {
+    "base":"give",
+    "past":"gave",
+    "participle":"given",
+    "pt":"dar"
+  },
+  {
+    "base":"tell",
+    "past":"told",
+    "participle":"told",
+    "pt":"contar"
+  },
+  {
+    "base":"work",
+    "past":"worked",
+    "participle":"worked",
+    "pt":"trabalhar"
+  },
+  {
+    "base":"call",
+    "past":"called",
+    "participle":"called",
+    "pt":"chamar"
+  },
+  {
+    "base":"try",
+    "past":"tried",
+    "participle":"tried",
+    "pt":"tentar"
+  },
+  {
+    "base":"ask",
+    "past":"asked",
+    "participle":"asked",
+    "pt":"perguntar"
+  },
+  {
+    "base":"need",
+    "past":"needed",
+    "participle":"needed",
+    "pt":"precisar"
+  },
+  {
+    "base":"feel",
+    "past":"felt",
+    "participle":"felt",
+    "pt":"sentir"
+  },
+  {
+    "base":"become",
+    "past":"became",
+    "participle":"become",
+    "pt":"tornar-se"
+  },
+  {
+    "base":"leave",
+    "past":"left",
+    "participle":"left",
+    "pt":"deixar"
+  },
+  {
+    "base":"put",
+    "past":"put",
+    "participle":"put",
+    "pt":"colocar"
+  },
+  {
+    "base":"mean",
+    "past":"meant",
+    "participle":"meant",
+    "pt":"significar"
+  },
+  {
+    "base":"keep",
+    "past":"kept",
+    "participle":"kept",
+    "pt":"manter"
+  },
+  {
+    "base":"let",
+    "past":"let",
+    "participle":"let",
+    "pt":"permitir"
+  },
+  {
+    "base":"begin",
+    "past":"began",
+    "participle":"begun",
+    "pt":"começar"
+  },
+  {
+    "base":"seem",
+    "past":"seemed",
+    "participle":"seemed",
+    "pt":"parecer"
+  },
+  {
+    "base":"help",
+    "past":"helped",
+    "participle":"helped",
+    "pt":"ajudar"
+  },
+  {
+    "base":"talk",
+    "past":"talked",
+    "participle":"talked",
+    "pt":"falar"
+  },
+  {
+    "base":"turn",
+    "past":"turned",
+    "participle":"turned",
+    "pt":"virar"
+  },
+  {
+    "base":"start",
+    "past":"started",
+    "participle":"started",
+    "pt":"começar"
+  },
+  {
+    "base":"show",
+    "past":"showed",
+    "participle":"shown",
+    "pt":"mostrar"
+  },
+  {
+    "base":"hear",
+    "past":"heard",
+    "participle":"heard",
+    "pt":"ouvir"
+  },
+  {
+    "base":"play",
+    "past":"played",
+    "participle":"played",
+    "pt":"jogar"
+  },
+  {
+    "base":"run",
+    "past":"ran",
+    "participle":"run",
+    "pt":"correr"
+  },
+  {
+    "base":"move",
+    "past":"moved",
+    "participle":"moved",
+    "pt":"mover"
+  },
+  {
+    "base":"live",
+    "past":"lived",
+    "participle":"lived",
+    "pt":"viver"
+  },
+  {
+    "base":"believe",
+    "past":"believed",
+    "participle":"believed",
+    "pt":"acreditar"
+  },
+  {
+    "base":"bring",
+    "past":"brought",
+    "participle":"brought",
+    "pt":"trazer"
+  },
+  {
+    "base":"happen",
+    "past":"happened",
+    "participle":"happened",
+    "pt":"acontecer"
+  },
+  {
+    "base":"write",
+    "past":"wrote",
+    "participle":"written",
+    "pt":"escrever"
+  },
+  {
+    "base":"sit",
+    "past":"sat",
+    "participle":"sat",
+    "pt":"sentar"
+  },
+  {
+    "base":"stand",
+    "past":"stood",
+    "participle":"stood",
+    "pt":"ficar em pé"
+  },
+  {
+    "base":"pay",
+    "past":"paid",
+    "participle":"paid",
+    "pt":"pagar"
+  },
+  {
+    "base":"meet",
+    "past":"met",
+    "participle":"met",
+    "pt":"encontrar"
+  },
+  {
+    "base":"include",
+    "past":"included",
+    "participle":"included",
+    "pt":"incluir"
+  },
+  {
+    "base":"continue",
+    "past":"continued",
+    "participle":"continued",
+    "pt":"continuar"
+  },
+  {
+    "base":"set",
+    "past":"set",
+    "participle":"set",
+    "pt":"definir"
+  },
+  {
+    "base":"learn",
+    "past":"learned",
+    "participle":"learned",
+    "pt":"aprender"
+  },
+  {
+    "base":"change",
+    "past":"changed",
+    "participle":"changed",
+    "pt":"mudar"
+  },
+  {
+    "base":"lead",
+    "past":"led",
+    "participle":"led",
+    "pt":"liderar"
+  },
+  {
+    "base":"understand",
+    "past":"understood",
+    "participle":"understood",
+    "pt":"entender"
+  },
+  {
+    "base":"watch",
+    "past":"watched",
+    "participle":"watched",
+    "pt":"assistir"
+  },
+  {
+    "base":"follow",
+    "past":"followed",
+    "participle":"followed",
+    "pt":"seguir"
+  },
+  {
+    "base":"stop",
+    "past":"stopped",
+    "participle":"stopped",
+    "pt":"parar"
+  },
+  {
+    "base":"create",
+    "past":"created",
+    "participle":"created",
+    "pt":"criar"
+  },
+  {
+    "base":"speak",
+    "past":"spoke",
+    "participle":"spoken",
+    "pt":"falar"
+  },
+  {
+    "base":"read",
+    "past":"read",
+    "participle":"read",
+    "pt":"ler"
+  },
+  {
+    "base":"allow",
+    "past":"allowed",
+    "participle":"allowed",
+    "pt":"permitir"
+  },
+  {
+    "base":"add",
+    "past":"added",
+    "participle":"added",
+    "pt":"adicionar"
+  },
+  {
+    "base":"spend",
+    "past":"spent",
+    "participle":"spent",
+    "pt":"gastar"
+  },
+  {
+    "base":"grow",
+    "past":"grew",
+    "participle":"grown",
+    "pt":"crescer"
+  },
+  {
+    "base":"open",
+    "past":"opened",
+    "participle":"opened",
+    "pt":"abrir"
+  },
+  {
+    "base":"walk",
+    "past":"walked",
+    "participle":"walked",
+    "pt":"andar"
+  },
+  {
+    "base":"win",
+    "past":"won","participle":"won","pt":"ganhar"},
+  {
+    "base":"offer",
+    "past":"offered",
+    "participle":"offered",
+    "pt":"oferecer"
+  },
+  {
+    "base":"remember",
+    "past":"remembered",
+    "participle":"remembered",
+    "pt":"lembrar"
+  },
+  {
+    "base":"love",
+    "past":"loved",
+    "participle":"loved",
+    "pt":"amar"
+  },
+  {
+    "base":"consider",
+    "past":"considered",
+    "participle":"considered",
+    "pt":"considerar"
+  },
+  {
+    "base":"appear",
+    "past":"appeared",
+    "participle":"appeared",
+    "pt":"aparecer"
+  },
+  {
+    "base":"buy",
+    "past":"bought",
+    "participle":"bought",
+    "pt":"comprar"
+  },
+  {
+    "base":"wait",
+    "past":"waited",
+    "participle":"waited",
+    "pt":"esperar"
+  },
+  {
+    "base":"serve",
+    "past":"served",
+    "participle":"served",
+    "pt":"servir"
+  },
+  {
+    "base":"die",
+    "past":"died",
+    "participle":"died",
+    "pt":"morrer"
+  },
+  {
+    "base":"send",
+    "past":"sent",
+    "participle":"sent",
+    "pt":"enviar"
+  },
+  {
+    "base":"expect",
+    "past":"expected",
+    "participle":"expected",
+    "pt":"esperar"
+  },
+  {
+    "base":"build",
+    "past":"built",
+    "participle":"built",
+    "pt":"construir"
+  },
+  {
+    "base":"stay",
+    "past":"stayed",
+    "participle":"stayed",
+    "pt":"ficar"
+  },
+  {
+    "base":"fall",
+    "past":"fell",
+    "participle":"fallen",
+    "pt":"cair"
+  },
+  {
+    "base":"cut",
+    "past":"cut",
+    "participle":"cut",
+    "pt":"cortar"
+  },
+  {
+    "base":"reach",
+    "past":"reached",
+    "participle":"reached",
+    "pt":"alcançar"
+  },
+  {
+    "base":"kill",
+    "past":"killed",
+    "participle":"killed",
+    "pt":"matar"
+  },
+  {
+    "base":"remain",
+    "past":"remained",
+    "participle":"remained",
+    "pt":"permanecer"
+  }
+]

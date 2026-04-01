@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Trainer Pro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>English Trainer Pro</h1>
+
+    <div id="level" aria-live="polite">Nível: <span id="levelValue">1</span> | Pontos: <span id="score">0</span></div>
+
+    <div id="card" class="card" aria-live="polite"></div>
+
+    <label for="answer" class="visually-hidden">Digite o passado simples</label>
+    <input id="answer" placeholder="Digite o passado" autocomplete="off" autofocus>
+
+    <div class="mode-row">
+      <span>Modo:</span>
+      <select id="modeSelect" aria-label="Modo de verbos">
+        <option value="all">Todos</option>
+        <option value="irregular">Somente irregulares</option>
+        <option value="regular">Somente regulares</option>
+      </select>
+    </div>
+
+    <div class="buttons">
+      <button id="previousBtn">Voltar</button>
+      <button id="checkBtn">Responder</button>
+      <button id="nextBtn">Próximo</button>
+      <button id="audioBtn" title="Ouvir palavra">🔊</button>
+      <button id="examplesBtn" title="Mostrar exemplos extras">Exemplos</button>
+    </div>
+
+    <p id="feedback" role="status" aria-live="polite"></p>
+    <p id="ai" class="sentence"></p>
+    <div id="examples" class="examples" aria-live="polite"></div>
+
+    <h2>Histórico de respostas</h2>
+    <div id="history" class="history"></div>
+    <div class="history-controls"><button id="clearHistoryBtn">Limpar histórico</button></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
